@@ -2,6 +2,7 @@
 
 * ### Abrir o GitBash na área de trabalho
 * ### Criar pasta utilizando o comando (make directory):
+* ### Documentação do projeto
 
 ```
 mkdir projetoBackend
